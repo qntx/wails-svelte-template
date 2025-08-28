@@ -49,7 +49,7 @@ wails build
 
 ## Project Structure
 
-```
+```text
 ├── frontend/          # Svelte frontend
 │   ├── src/
 │   └── package.json
