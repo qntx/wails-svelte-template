@@ -20,7 +20,7 @@ Modern Wails template using Svelte 5, Tailwind CSS, and shadcn-svelte components
 
 ```bash
 # Create new project
-wails init -n myapp -t https://github.com/bnema/wails-vite-svelte5-ts-taildwind-shadcn-template
+wails init -n myapp -t https://github.com/qntx/wails-svelte-template
 
 # Install dependencies
 cd myapp/frontend
