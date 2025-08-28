@@ -1,0 +1,7 @@
+{
+  "name": "wails-vite-svelte5-ts-taildwind-shadcn-template",
+  "shortname": "svelte5",
+  "author": "bnema",
+  "description": "Wails template with Svelte 5, Tailwind CSS, and shadcn-svelte",
+  "helpurl": "https://github.com/bnema/wails-vite-svelte5-ts-taildwind-shadcn-template"
+}
